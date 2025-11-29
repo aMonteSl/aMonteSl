@@ -4,8 +4,9 @@
 
 <!-- TYPING INTRO -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Junior+Backend+Developer+@+VBgroup;Engineering+Student+@+URJC;Creator+of+Code-XR;Aspiring+Full+Stack+Developer;Based+in+Madrid,+Spain&center=true&vCenter=true&width=520&height=50&size=22&font=Fira+Code&duration=2800&pause=900&color=00ff00" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Junior+Backend+Developer+@+VBgroup;Engineering+Student+@+URJC;Creator+of+Code-XR;Aspiring+Full+Stack+Developer;Based+in+Madrid,+Spain&center=true&vCenter=true&width=520&height=50&size=22&font=Fira+Code&duration=2800&pause=900&color=00ff00" alt="Typing SVG" />
 </div>
+
 
 <h2 align="center">Hi there 👋 I'm <strong>Adrián (aMonteSl)</strong></h2>
 
@@ -29,12 +30,28 @@
 ## 📈 GitHub Metrics & Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aMonteSl&show_icons=true&hide_border=false&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=aMonteSl&layout=compact&hide_border=false&bg_color=000000&title_color=00ff00&text_color=00ff00&border_color=00ff00" alt="Top languages" />
-  <img height="170" src="https://streak-stats.demolab.com?user=aMonteSl&theme=dark&background=000000&ring=00ff00&fire=00ff00&currStreakNum=00ff00&sideNums=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=00ff00&border=00ff00" alt="Contribution streak" />
+  <img
+    height="170"
+    src="https://github-readme-stats-9d3ltgykm-amontesls-projects.vercel.app/api?username=aMonteSl&show_icons=true&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00"
+    alt="GitHub stats"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats-9d3ltgykm-amontesls-projects.vercel.app/api/top-langs/?username=aMonteSl&layout=compact&bg_color=000000&title_color=00ff00&text_color=00ff00&border_color=00ff00"
+    alt="Top languages"
+  />
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com?user=aMonteSl&background=000000&ring=00ff00&fire=00ff00&currStreakNum=00ff00&sideNums=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=00ff00&border=00ff00"
+    alt="Contribution streak"
+  />
 </div>
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aMonteSl&theme=matrix&column=7&margin-w=12&margin-h=12&no-bg=true&no-frame=true" alt="GitHub profile trophies" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=aMonteSl&theme=matrix&column=7&margin-w=12&margin-h=12&no-bg=true&no-frame=true"
+    alt="GitHub profile trophies"
+  />
 </div>
 
 ---
