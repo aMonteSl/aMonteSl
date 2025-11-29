@@ -4,14 +4,14 @@
 
 <!-- TYPING INTRO -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Junior+Backend+Developer+@+VBgroup;Engineering+Student+@+URJC;Creator+of+Code-XR;Aspiring+Full+Stack+Developer;Based+in+Madrid,+Spain&center=true&vCenter=true&width=520&height=50&size=22&font=Fira+Code&duration=2800&pause=900&color=00ff00" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Junior+Backend+Developer+@+VBgroup;Engineering+Student+@+URJC;Creator+of+Code-XR;Continuously+Learning+and+Evolving+as+a+Developer;Based+in+Madrid,+Spain&center=true&vCenter=true&width=520&height=50&size=22&font=Fira+Code&duration=2800&pause=900&color=00ff00" alt="Typing SVG" />
 </div>
 
 
 <h2 align="center">Hi there 👋 I'm <strong>Adrián (aMonteSl)</strong></h2>
 
 <p align="center">
-	<em>Final-year Telematics Engineering student | Junior Backend Developer | Building the backend for an Online Booking Tool (OBT) | Actively learning modern frontend technologies to grow into a Full Stack Developer.</em>
+  <em>Final-year Telematics Engineering student | Junior Backend Developer | Building the backend for an Online Booking Tool (OBT) | My objective is to continue learning and evolving as a Developer across any sector.</em>
 </p>
 
 ---
@@ -21,7 +21,7 @@
 - 🧠 Currently engineering the backend for an <strong>Online Booking Tool (OBT)</strong> at VBgroup.
 - 🎓 Studying Telematics Engineering at <strong>Universidad Rey Juan Carlos (URJC)</strong> (final year).
 - 🏆 Author of <strong>Code-XR</strong>, awarded <em>Distinguished Artifact Award (VISSOFT 2025)</em>.
-- 🔄 Actively learning modern frontend technologies to grow into a <strong>Full Stack Developer</strong>.
+- 🔄 My objective is to continue learning and evolving as a <strong>Developer</strong> across any sector.
 - 🌍 Based in Madrid, Spain.
 - 🤝 Open to collaboration & new opportunities.
 
@@ -165,44 +165,33 @@
   </picture>
 </div>
 
-<!-- SNAKE ACTION WORKFLOW (enabled)
-Add a workflow file: .github/workflows/snake.yml
-
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: aMonteSl
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - name: Push Snake
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
 
 ---
 
 ### 📫 Contact & Links
 <div align="center">
-	<a href="https://www.linkedin.com/in/adrianmonteslinares/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00" /></a>
-	<a href="https://amontesl.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=00ff00" /></a>
-	<a href="https://github.com/aMonteSl"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff00" /></a>
-	<img src="https://visitor-badge.laobi.icu/badge?page_id=aMonteSl.aMonteSl&left_color=000000&right_color=00ff00" alt="visitors" />
+  <a href="https://www.linkedin.com/in/adrianmonteslinares/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00&labelColor=000000"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="https://amontesl.github.io">
+    <img
+      src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=00ff00"
+      alt="Portfolio"
+    />
+  </a>
+  <a href="https://github.com/aMonteSl">
+    <img
+      src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff00"
+      alt="GitHub"
+    />
+  </a>
+  <img
+    src="https://visitor-badge.laobi.icu/badge?page_id=aMonteSl.aMonteSl&left_color=000000&right_color=00ff00"
+    alt="visitors"
+  />
 </div>
 
 ---
