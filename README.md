@@ -4,7 +4,7 @@
 
 <!-- TYPING INTRO -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Junior+Backend+Developer+@+VBgroup;Engineering+Student+@+URJC;Creator+of+Code-XR;Continuously+Learning+and+Evolving+as+a+Developer;Based+in+Madrid,+Spain&center=true&vCenter=true&width=520&height=50&size=22&font=Fira+Code&duration=2800&pause=900&color=00ff00" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Junior+Backend+Developer+@+VBgroup;Engineering+Student+@+URJC;Creator+of+Code-XR;Continuously+learning;Based+in+Madrid,+Spain&center=true&vCenter=true&width=520&height=50&size=22&font=Fira+Code&duration=2800&pause=900&color=00ff00" alt="Typing SVG" />
 </div>
 
 
@@ -136,9 +136,11 @@
 
 ---
 
-### 📚 Currently Learning
+### 📚 Currently Learning & Focus Areas
 
-<img src="https://img.shields.io/badge/Full%20Stack%20Path-000000?style=for-the-badge&logoColor=00ff00" alt="Full Stack Path" />
+Exploring frontend development to complement backend experience and continuing to broaden my engineering skills across other domains.
+
+<img src="https://img.shields.io/badge/Frontend%20Development-000000?style=for-the-badge&logoColor=00ff00" alt="Frontend Development" />
 <img src="https://img.shields.io/badge/Advanced%20Frontend-000000?style=for-the-badge&logoColor=00ff00" alt="Advanced Frontend" />
 <img src="https://img.shields.io/badge/Software%20Architecture-000000?style=for-the-badge&logoColor=00ff00" alt="Software Architecture" />
 
