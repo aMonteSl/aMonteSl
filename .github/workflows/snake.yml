@@ -2,11 +2,12 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # todos los días a las 00:00
   workflow_dispatch:
   push:
     branches:
       - main
+      - create_readme   # así puedes probarlo en tu rama
 
 permissions:
   contents: write
@@ -20,8 +21,10 @@ jobs:
         with:
           github_user_name: aMonteSl
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            # Versión para modo claro: fondo muy oscuro + niveles de verde claros
+            dist/github-snake.svg?color_snake=#00ff00&color_dots=#111111,#145214,#22a322,#55dd55,#a8ffa8
+            # Versión para modo oscuro: aún más contraste en niveles altos
+            dist/github-snake-dark.svg?color_snake=#00ff00&color_dots=#050505,#0c3b0c,#188018,#39c339,#b6ffb6
 
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
