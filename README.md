@@ -138,11 +138,13 @@
 
 ### 📚 Currently Learning & Focus Areas
 
-Exploring frontend development to complement backend experience and continuing to broaden my engineering skills across other domains.
+Exploring frontend development to complement backend experience, learning the foundations of AI/ML, and continuing to broaden my engineering skills across other domains.
 
 <img src="https://img.shields.io/badge/Frontend%20Development-000000?style=for-the-badge&logoColor=00ff00" alt="Frontend Development" />
 <img src="https://img.shields.io/badge/Advanced%20Frontend-000000?style=for-the-badge&logoColor=00ff00" alt="Advanced Frontend" />
 <img src="https://img.shields.io/badge/Software%20Architecture-000000?style=for-the-badge&logoColor=00ff00" alt="Software Architecture" />
+<img src="https://img.shields.io/badge/AI%20%26%20ML-000000?style=for-the-badge&logoColor=00ff00" alt="AI & ML" />
+<img src="https://img.shields.io/badge/Continuous%20Learning-000000?style=for-the-badge&logoColor=00ff00" alt="Continuous Learning" />
 
 ---
 
@@ -199,7 +201,7 @@ Exploring frontend development to complement backend experience and continuing t
 ---
 
 <div align="center">
-  <i>"Building immersive tools and robust backends while growing into full-stack mastery."</i>
+  <i>"Building immersive tools and robust backends while continuously learning and evolving as a developer."</i>
 </div>
 
 <!-- FOOTER BANNER -->
