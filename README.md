@@ -26,33 +26,54 @@
 - 🤝 Open to collaboration & new opportunities.
 
 ---
-
 ## 📈 GitHub Metrics & Stats
 
 <div align="center">
   <img
-    height="170"
-    src="https://github-readme-stats-9d3ltgykm-amontesls-projects.vercel.app/api?username=aMonteSl&show_icons=true&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00"
-    alt="GitHub stats"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats-9d3ltgykm-amontesls-projects.vercel.app/api/top-langs/?username=aMonteSl&layout=compact&bg_color=000000&title_color=00ff00&text_color=00ff00&border_color=00ff00"
-    alt="Top languages"
-  />
-  <img
-    height="170"
-    src="https://streak-stats.demolab.com?user=aMonteSl&background=000000&ring=00ff00&fire=00ff00&currStreakNum=00ff00&sideNums=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=00ff00&border=00ff00"
-    alt="Contribution streak"
-  />
-</div>
-
-<div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=aMonteSl&theme=matrix&column=7&margin-w=12&margin-h=12&no-bg=true&no-frame=true"
+    src="https://github-profile-trophy.vercel.app/?username=aMonteSl&theme=matrix&title=MultiLanguage,Repositories,Commits,Experience,Stars,Followers&margin-w=12&margin-h=12&no-bg=true&no-frame=true"
     alt="GitHub profile trophies"
   />
 </div>
+
+### 📌 Pinned Repositories
+
+<div align="center">
+  <a href="https://github.com/aMonteSl/CodeXR">
+    <img
+      src="https://github-readme-stats-seven-theta-97.vercel.app/api/pin/?username=aMonteSl&repo=CodeXR&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00"
+      alt="Code-XR"
+    />
+  </a>
+  <a href="https://github.com/aMonteSl/StepByStep">
+    <img
+      src="https://github-readme-stats-seven-theta-97.vercel.app/api/pin/?username=aMonteSl&repo=StepByStep&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00"
+      alt="StepByStep"
+    />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/aMonteSl/GreenHouse">
+    <img
+      src="https://github-readme-stats-seven-theta-97.vercel.app/api/pin/?username=aMonteSl&repo=GreenHouse&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00"
+      alt="GreenHouse Simulator"
+    />
+  </a>
+  <a href="https://github.com/aMonteSl/Shell">
+    <img
+      src="https://github-readme-stats-seven-theta-97.vercel.app/api/pin/?username=aMonteSl&repo=Shell&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00"
+      alt="Shell"
+    />
+  </a>
+  <a href="https://github.com/aMonteSl/License_plate_detector">
+    <img
+      src="https://github-readme-stats-seven-theta-97.vercel.app/api/pin/?username=aMonteSl&repo=License_plate_detector&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00"
+      alt="License Plate Detector"
+    />
+  </a>
+</div>
+
+
 
 ---
 
