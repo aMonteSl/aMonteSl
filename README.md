@@ -151,16 +151,6 @@ Expanding frontend depth to complement backend experience, strengthening softwar
 
 ---
 
-### Featured Projects
-
-| Project | Description | Links |
-|---------|-------------|-------|
-| Code-XR | Real-time extended reality code visualization VS Code extension. VISSOFT 2025 Distinguished Artifact Award. | [Repo](https://github.com/aMonteSl/CodeXR) · [Docs](https://amontesl.github.io/code-xr-docs/) · [Marketplace](https://marketplace.visualstudio.com/items?itemName=aMonteSl.code-xr) |
-| OBT (VBgroup Internship) | SaaS workflow for corporate travel requests, approvals and reservations with role-based access and backend architecture design. | [Portfolio](https://amontesl.github.io/projects/obt/) |
-| StepByStep | Mobile app to save & share hiking routes (GPX). Earned honors. | [Repo](https://github.com/aMonteSl/StepByStep) |
-| GreenHouse Simulator | Object-oriented simulation of a greenhouse (sensors, actuators, roles). | [Repo](https://github.com/aMonteSl/GreenHouse) |
-| Shell | Custom C shell supporting pipes, redirection & background processes. | [Repo](https://github.com/aMonteSl/Shell) |
-
 ---
 
 ### Contribution Graph Snake
