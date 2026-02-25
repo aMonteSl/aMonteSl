@@ -178,7 +178,7 @@ Expanding frontend depth to complement backend experience, strengthening softwar
 <div align="center">
   <a href="https://www.linkedin.com/in/adrianmonteslinares/">
     <img
-      src="https://img.shields.io/badge/LinkedIn-040304?style=for-the-badge&logo=linkedin&logoColor=DCA293&labelColor=040304"
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>

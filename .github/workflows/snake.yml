@@ -21,10 +21,10 @@ jobs:
         with:
           github_user_name: aMonteSl
           outputs: |
-            # Versión para modo claro: fondo muy oscuro + niveles de verde claros
-            dist/github-snake.svg?color_snake=#00ff00&color_dots=#111111,#145214,#22a322,#55dd55,#a8ffa8
-            # Versión para modo oscuro: aún más contraste en niveles altos
-            dist/github-snake-dark.svg?color_snake=#00ff00&color_dots=#050505,#0c3b0c,#188018,#39c339,#b6ffb6
+            # Versión para modo claro: paleta marrón cálida alineada con el tema del perfil
+            dist/github-snake.svg?color_snake=#DCA293&color_dots=#040304,#1a1a1a,#8c6a5e,#d2b6a1,#efd2bc
+            # Versión para modo oscuro: paleta marrón con mayor contraste
+            dist/github-snake-dark.svg?color_snake=#DCA293&color_dots=#040304,#0a0a0a,#6f544a,#c8956b,#EFD2BC
 
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
