@@ -46,13 +46,13 @@
 <div align="center">
   <a href="https://github.com/aMonteSl/CodeXR">
     <img
-      src="https://github-readme-stats-seven-theta-97.vercel.app/api/pin/?username=aMonteSl&repo=CodeXR&bg_color=040304&title_color=DCA293&text_color=EFD2BC&icon_color=DCA293&border_color=1a1a1a"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aMonteSl&repo=CodeXR&bg_color=040304&title_color=DCA293&text_color=EFD2BC&icon_color=DCA293&border_color=1a1a1a"
       alt="Code-XR"
     />
   </a>
   <a href="https://github.com/aMonteSl/StepByStep">
     <img
-      src="https://github-readme-stats-seven-theta-97.vercel.app/api/pin/?username=aMonteSl&repo=StepByStep&bg_color=040304&title_color=DCA293&text_color=EFD2BC&icon_color=DCA293&border_color=1a1a1a"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aMonteSl&repo=StepByStep&bg_color=040304&title_color=DCA293&text_color=EFD2BC&icon_color=DCA293&border_color=1a1a1a"
       alt="StepByStep"
     />
   </a>
@@ -61,19 +61,19 @@
 <div align="center">
   <a href="https://github.com/aMonteSl/GreenHouse">
     <img
-      src="https://github-readme-stats-seven-theta-97.vercel.app/api/pin/?username=aMonteSl&repo=GreenHouse&bg_color=040304&title_color=DCA293&text_color=EFD2BC&icon_color=DCA293&border_color=1a1a1a"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aMonteSl&repo=GreenHouse&bg_color=040304&title_color=DCA293&text_color=EFD2BC&icon_color=DCA293&border_color=1a1a1a"
       alt="GreenHouse Simulator"
     />
   </a>
   <a href="https://github.com/aMonteSl/Shell">
     <img
-      src="https://github-readme-stats-seven-theta-97.vercel.app/api/pin/?username=aMonteSl&repo=Shell&bg_color=040304&title_color=DCA293&text_color=EFD2BC&icon_color=DCA293&border_color=1a1a1a"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aMonteSl&repo=Shell&bg_color=040304&title_color=DCA293&text_color=EFD2BC&icon_color=DCA293&border_color=1a1a1a"
       alt="Shell"
     />
   </a>
   <a href="https://github.com/aMonteSl/License_plate_detector">
     <img
-      src="https://github-readme-stats-seven-theta-97.vercel.app/api/pin/?username=aMonteSl&repo=License_plate_detector&bg_color=040304&title_color=DCA293&text_color=EFD2BC&icon_color=DCA293&border_color=1a1a1a"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aMonteSl&repo=License_plate_detector&bg_color=040304&title_color=DCA293&text_color=EFD2BC&icon_color=DCA293&border_color=1a1a1a"
       alt="License Plate Detector"
     />
   </a>
