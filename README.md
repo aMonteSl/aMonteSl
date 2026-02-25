@@ -18,9 +18,9 @@
 
 <div align="center">
   <table>
-    <tr><td><strong>Current Role</strong></td><td>Full-Stack Developer with recent backend/full-stack internship experience at <strong>VBgroup</strong>.</td></tr>
-    <tr><td><strong>Background</strong></td><td>Telematics Engineer from <strong>Universidad Rey Juan Carlos (URJC)</strong>.</td></tr>
+    <tr><td><strong>Background</strong></td><td>Telematics Engineering graduate from <strong>Universidad Rey Juan Carlos (URJC)</strong>, with backend/full-stack internship experience at <strong>VBgroup</strong> (Online Booking Tool).</td></tr>
     <tr><td><strong>Location</strong></td><td>Madrid, Spain.</td></tr>
+    <tr><td><strong>Current Objectives</strong></td><td>Achieve a <strong>C1 English certification</strong> and complete a <strong>Master's degree in Artificial Intelligence</strong>.</td></tr>
     <tr><td><strong>Open To</strong></td><td>Collaboration and new opportunities in software development.</td></tr>
   </table>
 </div>
@@ -46,13 +46,13 @@
 <div align="center">
   <a href="https://github.com/aMonteSl/CodeXR">
     <img
-      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aMonteSl&repo=CodeXR&bg_color=040304&title_color=DCA293&text_color=EFD2BC&icon_color=DCA293&border_color=1a1a1a"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aMonteSl&repo=CodeXR&bg_color=040304&title_color=DCA293&text_color=EFD2BC&icon_color=DCA293&border_color=1a1a1a&cache_seconds=300&v=20260225"
       alt="Code-XR"
     />
   </a>
   <a href="https://github.com/aMonteSl/StepByStep">
     <img
-      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aMonteSl&repo=StepByStep&bg_color=040304&title_color=DCA293&text_color=EFD2BC&icon_color=DCA293&border_color=1a1a1a"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aMonteSl&repo=StepByStep&bg_color=040304&title_color=DCA293&text_color=EFD2BC&icon_color=DCA293&border_color=1a1a1a&cache_seconds=300&v=20260225"
       alt="StepByStep"
     />
   </a>
@@ -61,19 +61,19 @@
 <div align="center">
   <a href="https://github.com/aMonteSl/GreenHouse">
     <img
-      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aMonteSl&repo=GreenHouse&bg_color=040304&title_color=DCA293&text_color=EFD2BC&icon_color=DCA293&border_color=1a1a1a"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aMonteSl&repo=GreenHouse&bg_color=040304&title_color=DCA293&text_color=EFD2BC&icon_color=DCA293&border_color=1a1a1a&cache_seconds=300&v=20260225"
       alt="GreenHouse Simulator"
     />
   </a>
   <a href="https://github.com/aMonteSl/Shell">
     <img
-      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aMonteSl&repo=Shell&bg_color=040304&title_color=DCA293&text_color=EFD2BC&icon_color=DCA293&border_color=1a1a1a"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aMonteSl&repo=Shell&bg_color=040304&title_color=DCA293&text_color=EFD2BC&icon_color=DCA293&border_color=1a1a1a&cache_seconds=300&v=20260225"
       alt="Shell"
     />
   </a>
   <a href="https://github.com/aMonteSl/License_plate_detector">
     <img
-      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aMonteSl&repo=License_plate_detector&bg_color=040304&title_color=DCA293&text_color=EFD2BC&icon_color=DCA293&border_color=1a1a1a"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aMonteSl&repo=License_plate_detector&bg_color=040304&title_color=DCA293&text_color=EFD2BC&icon_color=DCA293&border_color=1a1a1a&cache_seconds=300&v=20260225"
       alt="License Plate Detector"
     />
   </a>
