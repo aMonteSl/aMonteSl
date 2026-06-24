@@ -36,10 +36,10 @@
 
 <div align="center">
   <a href="https://github.com/aMonteSl/aMonteSl/actions/workflows/readme-health.yml">
-    <img src="https://github.com/aMonteSl/aMonteSl/actions/workflows/readme-health.yml/badge.svg" alt="README Health Check" />
+    <img src="https://github.com/aMonteSl/aMonteSl/actions/workflows/readme-health.yml/badge.svg?branch=main" alt="README Health Check" />
   </a>
   <a href="https://github.com/aMonteSl/aMonteSl/actions/workflows/snake.yml">
-    <img src="https://github.com/aMonteSl/aMonteSl/actions/workflows/snake.yml/badge.svg" alt="Generate Snake" />
+    <img src="https://github.com/aMonteSl/aMonteSl/actions/workflows/snake.yml/badge.svg?branch=main" alt="Generate Snake" />
   </a>
 </div>
 
@@ -90,15 +90,6 @@
 ---
 
 ## GitHub Metrics & Stats
-
-<div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=aMonteSl&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=6&title=Stars,Followers,Repositories,Commits,PullRequest,Issues"
-    alt="GitHub profile trophies"
-  />
-</div>
-
-<br />
 
 <div align="center">
   <img
@@ -473,6 +464,13 @@ Recommendation letters from academic and professional supervisors are available 
     src="https://visitor-badge.laobi.icu/badge?page_id=aMonteSl.aMonteSl&left_color=040304&right_color=DCA293"
     alt="visitors"
   />
+</div>
+
+<br />
+
+<div align="center">
+  <sub>Email</sub><br />
+  <code>adrian.adyra@gmail.com</code>
 </div>
 
 ---
