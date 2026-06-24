@@ -1,54 +1,52 @@
 name: README Health Check
 
 on:
-workflow_dispatch:
-schedule:
-- cron: "0 6 * * 1"
-push:
-branches:
-- main
-- create_readme
-paths:
-- "README.md"
-- ".github/workflows/**"
-pull_request:
-paths:
-- "README.md"
-- ".github/workflows/**"
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * 1"
+  push:
+    branches:
+      - main
+      - create_readme
+    paths:
+      - "README.md"
+      - ".github/workflows/**"
+  pull_request:
+    paths:
+      - "README.md"
+      - ".github/workflows/**"
 
 permissions:
-contents: read
+  contents: read
 
 concurrency:
-group: readme-health-${{ github.ref }}
-cancel-in-progress: true
+  group: readme-health-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
-check-links:
-name: Check README links
-runs-on: ubuntu-latest
+  check-links:
+    name: Check README links
+    runs-on: ubuntu-latest
 
-```
-steps:
-  - name: Checkout repository
-    uses: actions/checkout@v4
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-  - name: Check links with Lychee
-    uses: lycheeverse/lychee-action@v2
-    with:
-      args: >
-        --verbose
-        --no-progress
-        --accept 200,204,206,301,302,307,308,403,429
-        --exclude "https://img.shields.io/.*"
-        --exclude "https://github-readme-stats.*"
-        --exclude "https://github-profile-trophy.*"
-        --exclude "https://visitor-badge.laobi.icu/.*"
-        --exclude "https://capsule-render.vercel.app/.*"
-        --exclude "https://readme-typing-svg.demolab.com/.*"
-        --exclude "https://raw.githubusercontent.com/aMonteSl/aMonteSl/output/.*"
-        --exclude "https://www.linkedin.com/.*"
-        README.md
-      fail: true
-      jobSummary: true
-```
+      - name: Check links with Lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >
+            --verbose
+            --no-progress
+            --accept 200,204,206,301,302,307,308,403,429
+            --exclude "https://img.shields.io/.*"
+            --exclude "https://github-readme-stats.*"
+            --exclude "https://github-profile-trophy.*"
+            --exclude "https://visitor-badge.laobi.icu/.*"
+            --exclude "https://capsule-render.vercel.app/.*"
+            --exclude "https://readme-typing-svg.demolab.com/.*"
+            --exclude "https://raw.githubusercontent.com/aMonteSl/aMonteSl/output/.*"
+            --exclude "https://www.linkedin.com/.*"
+            README.md
+          fail: true
+          jobSummary: true
